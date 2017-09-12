@@ -1,0 +1,52 @@
+
+
+.header {
+  background-image: url("https://i.pinimg.com/564x/aa/e6/7b/aae67bd3bf6bede18cf2e88da5ad4445.jpg");
+  height: 700px;
+  background-position: center;
+}
+
+h1 {
+  
+  color: rgb(40, 58, 54);
+  font-family:Brush Script MT;
+  font-size: 200px;
+  line-height: 60px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+}
+
+
+h2 {
+  color:white;
+  background-color:rgb(22, 60, 61);
+  font-family: 'Raleway', sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+ul {
+  margin: 0 auto;
+  padding: 0;
+  width: 50%;
+}
+
+li {
+  list-style: none;
+  margin: 100px 0px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: gray;
+  line-height: 40px;
+  font-family:Papyrus;
+  font-size: 27px;
+  text-align: center center;
+  }
+  
+
